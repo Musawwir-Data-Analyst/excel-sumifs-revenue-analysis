@@ -13,9 +13,7 @@ The goal of this project is to show how Excel can be used to perform multi-crite
 - Calculate total revenue using the `SUMIFS` function.
 - Analyze revenue based on multiple conditions.
 - Understand how multiple criteria can be applied in Excel.
-- Practice Excel data analysis techniques.
-- Create a simple and practical revenue analysis project.
-
+  
 ---
 
 ## 🛠️ Tools Used
